@@ -1,1 +1,2 @@
-// Flows will be imported for their side effects in this file.
+import '@/ai/flows/generate-recipe-from-photo.ts';
+import '@/ai/flows/improve-recipe.ts';
